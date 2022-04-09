@@ -6,13 +6,16 @@
     border-radius: 15px;
     transition: all;
     box-shadow: 10px 5px #0000;
-
-
-
+    color: white;
+    text-align: right;top: 35px;
+    font-size: 50px;
 }
+
+
 .key1:hover{
     background-image:linear-gradient(to right,white,white, white,white,gray);
     width: 495px;
+    color:black;
 }
 
 
@@ -22,6 +25,12 @@
 body{
        background-color: gray;
    }
+
+
+   .key5:hover{
+        width: 245;
+    }
+   
 
    
 
@@ -37,6 +46,7 @@ body{
   }
 
 
+
   .black2{
     border: 5px solid black;
     background-color:black;
@@ -48,7 +58,6 @@ body{
    }
 
 
-
    .black3{
     border: 5px solid black;
     background-color:black;
@@ -57,9 +66,7 @@ body{
     border-radius: 15px;
     position: absolute;
     top: 74vh;
-   }
-
-
+   } 
 
 
    .black4{
@@ -97,7 +104,6 @@ body{
    }
 
 
-  
 
 
 
